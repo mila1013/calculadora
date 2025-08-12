@@ -16,13 +16,13 @@ width: 320px;
 }
 .visor{
   background-color: black;
-  color: #0f0;
+  color: rgb(225, 230, 225);
   font-size: 36px;
   text-align: right;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 20px;
-  box-shadow:inset 008px #0f0 ;
+  box-shadow:inset 008px rgb(223, 230, 223) ;
   height: 60px;
   overflow-x: auto;
 }
